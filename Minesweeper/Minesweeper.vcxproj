@@ -19,9 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Main.h" />
     <ClInclude Include="MinesweeperApp.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Main.cpp" />
     <ClCompile Include="MinesweeperApp.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
